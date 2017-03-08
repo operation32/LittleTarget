@@ -85,3 +85,5 @@ HCURSOR CLittleTargetDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+//
